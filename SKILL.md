@@ -1,5 +1,3 @@
- SKILL.md:                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                    
  ```markdown                                                                                                                                                                                                                        
    ---                                                                                                                                                                                                                              
    name: hello-world                                                                                                                                                                                                                
@@ -13,4 +11,4 @@
    1. Greet with "Hello! 👋"                                                                                                                                                                                                        
    2. Ask what they need help with.                                                                                                                                                                                                 
    3. Wait for their answer before doing anything else.                                                                                                                                                                             
- ```                                                                                                                                                                                                                                
+ ```
